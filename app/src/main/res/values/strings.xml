@@ -1,0 +1,64 @@
+<resources>
+
+    <!--    IMC app-->
+    <string name="app_name">IndiceMasaCorporal</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="recalculate">Re_Calcular</string>
+    <string name="result">Tu resultado</string>
+
+    <string name="error">Error</string>
+
+    <string name="title_bajo_peso">Bajo peso</string>
+    <string name="descripcion_bajo_peso">Estas por debajo de lo optimo para tu peso y altura</string>
+
+    <string name="title_peso_normal">Peso normal</string>
+    <string name="descripcion_peso_normal">Estas en lo optimo para tu peso y altura</string>
+
+    <string name="title_sobrepeso">Sobrepeso</string>
+    <string name="descripcion_sobrepeso">Estas por encima de lo optimo para tu peso y altura</string>
+
+    <string name="title_obesidad">Obesidad</string>
+    <string name="descripcion_obesidad">Estas MUY por encima de lo optimo para tu peso y altura</string>
+
+    <!--    Todo App-->
+    <string name="todo_title">Hola MARVIN</string>
+    <string name="todo_categorias">Categorias</string>
+    <string name="todo_tasks">Tareas</string>
+
+    <string name="todo_dialog_add_tasks">Añade la tarea</string>
+    <string name="todo_dialog_category_business">Negocios</string>
+    <string name="todo_dialog_category_personal">Personal</string>
+    <string name="todo_dialog_category_other">Otros</string>
+    <string name="todo_dialog_add_task_buttom">Crear tarea</string>
+
+<!--    Super Hero-->
+
+    <string name="superhero_intelligense">Inteligencia</string>
+    <string name="superhero_strength">Fortaleza</string>
+    <string name="superhero_speed">Velocidad</string>
+    <string name="superhero_durability">Durabilidad</string>
+    <string name="superhero_power">Poder</string>
+    <string name="superhero_combat">Combate</string>
+
+<!--    Setings-->
+
+    <string name="setings_modo">Modo Oscuro</string>
+    <string name="setings_activar">Activa el modo oscuro para una mejor vista</string>
+    <string name="setings_bl_activar">Activar Bluetooth</string>
+    <string name="setings_blu_activar">Conecta perifericos sin cable</string>
+    <string name="setings_blu_volumen">Volumen</string>
+    <string name="setings_blu_vibrador">Vibrar en las llamadas</string>
+
+
+<!--    Activity-->
+    <string name="activity_salud_app">SALUD APP</string>
+    <string name="activity_salud_masa">INDICE DE MASA CORPORAL</string>
+    <string name="activity_salud_todo">TODO APP</string>
+    <string name="activity_salud_hero">SUPER HERO APP</string>
+    <string name="activity_salud_setings">SETINGS APP</string>
+</resources>
